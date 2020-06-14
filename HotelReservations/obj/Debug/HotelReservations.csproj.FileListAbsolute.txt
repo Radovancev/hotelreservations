@@ -1,0 +1,9 @@
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations\bin\Debug\HotelReservations.exe.config
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations\bin\Debug\HotelReservations.exe
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations\bin\Debug\HotelReservations.pdb
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations\obj\Debug\HotelReservations.csprojAssemblyReference.cache
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations\obj\Debug\HotelReservations.Properties.Resources.resources
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations\obj\Debug\HotelReservations.csproj.GenerateResource.cache
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations\obj\Debug\HotelReservations.csproj.CoreCompileInputs.cache
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations\obj\Debug\HotelReservations.exe
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations\obj\Debug\HotelReservations.pdb

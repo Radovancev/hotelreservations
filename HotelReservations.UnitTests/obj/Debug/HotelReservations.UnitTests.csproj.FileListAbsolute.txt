@@ -1,0 +1,17 @@
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\bin\Debug\HotelReservations.UnitTests.dll
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\bin\Debug\HotelReservations.UnitTests.pdb
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\bin\Debug\HotelReservations.exe
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\bin\Debug\HotelReservations.pdb
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\bin\Debug\HotelReservations.exe.config
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\obj\Debug\HotelReservations.UnitTests.csprojAssemblyReference.cache
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\obj\Debug\HotelReservations.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\obj\Debug\HotelReservations.UnitTests.csproj.CopyComplete
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\obj\Debug\HotelReservations.UnitTests.dll
+C:\Users\Dzoni\source\repos\HotelReservations\HotelReservations.UnitTests\obj\Debug\HotelReservations.UnitTests.pdb
